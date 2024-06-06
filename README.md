@@ -36,6 +36,8 @@ DatabaseManager: A class responsible for interacting with the database system, f
 MailSender: A class responsible for sending email alerts.
 BankCardManager: The primary application class, responsible for setting up routes, handling requests, and integrating with the DatabaseManager and MailSender.
 
+# Here is demo page of this system:
+
 
 # Security
 User Authentication: The application employs a multi-level user authentication system, ensuring that unauthorized access is minimized.
